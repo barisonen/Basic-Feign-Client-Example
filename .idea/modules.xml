@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Feign Client Example.iml" filepath="$PROJECT_DIR$/.idea/Feign Client Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calledservice/calledservice.iml" filepath="$PROJECT_DIR$/calledservice/calledservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoservice/demoservice.iml" filepath="$PROJECT_DIR$/demoservice/demoservice.iml" />
+    </modules>
+  </component>
+</project>
